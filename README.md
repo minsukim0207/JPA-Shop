@@ -1,19 +1,9 @@
-### README sample (프로젝트 리드미 사용 방법)
-# 프로젝트 이름
-
-<p align="center">
-  <br>
-  이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
-  <img src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=900&t=st=1691033873~exp=1691034473~hmac=36bcd6579f5373a2f4555b77b3c120770cb7ab06608a267b80ca7ec436648620">
-  <br>
-</p>
-
-
+# 쇼핑몰
 
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트를 만들게 된 개요나 동기를 작성해주세요.
+Spring Boot, Spring Security, JPA/Hibernate를 활용하여 쇼핑몰 백엔드를 구현해본다.
 </p>
 
 <p align="center">
@@ -27,29 +17,35 @@
 
 ## 기술 스택
 
-| JavaScript |    Java    | 
-| :--------: | :--------: | 
-|   ![js]    |  ![java]   |
+|    Java    |   Spring   |     JPA    |  OracleDB  |   HTML5    |    CSS     |  
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | 
+|   ![java]  |  ![spring] |   ![jpa]   | ![oracle]  |  ![html]   |   ![css]   |
 
 <br>
 
 ## 구현 기능
 
-### 기능 1
+### 사용자
 
-### 기능 2
+### 상품
 
-### 기능 3
-
-### 기능 4
+### 댓글
 
 <br>
 
-## 배운 점 & 아쉬운 점
+## 좋았던 점 & 아쉬웠던 점 & 힘들었던 점
 
 <p align="justify">
-여러분이 프로젝트를 진행하며 배운 부분과 에러해결(trouble shooting)을 작성해서 기술하면 좋습니다.<br />
-트러블슈팅(trouble shooting) : 문제 해결의 일종 / 보통 컴퓨터 시스템에서 발생하는 문제들을 해결하는 용어로 많이 사용합니다.
+좋았던 점<br>
+혼자서 회원 도메인, CRUD를 포함한 가장 기본적인 사이트를 마음대로 구현해보았던 점이 좋았습니다. 
+  
+아쉬웠던 점<br>
+혼자하는 프로젝트라 규모가 크지 않았습니다.
+시간을 들여 조금 더 큰 규모로 만들어 보려고 합니다.
+
+힘들었던 점<br>
+스프링 시큐리티를 처음 적용해보아 적용이 쉽지 않았습니다. 
+꾸준한 반복 숙달이 필요하다는 생각이 들었습니다. 
 </p>
 
 <br>
@@ -57,5 +53,4 @@
 
 <!-- Stack Icon Refernces -->
 
-[js]: ./readme-static/img/javascript.svg
 [java]: ./readme-static/img/java.svg
