@@ -3,14 +3,10 @@
 ## 프로젝트 소개
 
 <p align="justify">
-Spring Boot, Spring Security, JPA/Hibernate를 활용하여 쇼핑몰 백엔드를 구현해본다.
+  Spring Boot, Spring Security, JPA/Hibernate를 활용하여 쇼핑몰 백엔드를 구현해본다.
 </p>
 
 <p align="center">
-여러분이 만든 프로젝트를 캡쳐하거나 <strong>GIF</strong> 화면으로 만들어 <br />
-상대방이 프로젝트를 예시로 한 번에 볼수 있게 만들어주는게 좋습니다.<br />
-또는 배포하여 프로젝트 사이트를 올려도 좋습니다.<br />
-<strong>GIF</strong> 또는 <strong>Images</strong>
 </p>
 
 <br>
