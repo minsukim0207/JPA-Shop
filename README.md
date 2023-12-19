@@ -54,3 +54,8 @@
 <!-- Stack Icon Refernces -->
 
 [java]: ./readme-static/img/java.svg
+[spring]: ./readme-static/img/spring.svg
+[jpa]: ./readme-static/img/spring.svg
+[oracle]: ./readme-static/img/oracle.svg
+[html]: ./readme-static/img/html5.svg
+[css]: ./readme-static/img/css3.svg
